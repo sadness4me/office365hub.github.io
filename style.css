@@ -132,3 +132,29 @@ footer {
   border-top: 1px solid #334155;
   font-size: 0.9rem;
 }
+
+.content {
+  padding: 120px 40px 80px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.content h1 {
+  color: #38bdf8;
+  margin-bottom: 15px;
+}
+
+.content h2 {
+  margin: 25px 0 10px;
+  color: #7dd3fc;
+}
+
+.content ul {
+  list-style: square;
+  padding-left: 25px;
+}
+
+nav a.active {
+  color: #38bdf8;
+  font-weight: 600;
+}
